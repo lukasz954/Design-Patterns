@@ -1,0 +1,11 @@
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Autofac.dll
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Autofac.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\bin\Debug\Autofac.xml
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\lbartkowiak\Documents\Projekty\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
